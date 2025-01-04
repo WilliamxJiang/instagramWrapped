@@ -453,7 +453,7 @@ const InstagramWrapped = () => {
               value={username}
               onChange={(e) => setUsername(e.target.value)}
               className="w-full px-4 py-2 border border-gray-300 rounded-lg mb-4"
-              placeholder="Enter your Instagram name"
+              placeholder="Enter your Instagram name (not your username)"
             />
             <button
               onClick={() => setStep("upload")}
