@@ -441,7 +441,7 @@ const InstagramWrapped = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-pink-100 via-white to-purple-100 p-6 flex items-center justify-center">
+    <div className="min-h-screen bg-instagram-gradient flex items-center justify-center">
       <div className="w-full max-w-lg bg-white rounded-lg shadow-md p-6 text-center">
         {step === "username" && (
           <>
