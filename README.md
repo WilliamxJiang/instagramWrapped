@@ -1,6 +1,7 @@
 # InstagramWrapped
 
 Ever wished Instagram had its own version of Spotify Wrapped? So did I! **InstagramWrapped** is a personal project that brings this idea to life, offering users a fun and engaging way to reflect on their Instagram DMs usage and engagement over the year. 
+Demo Video: [Link](https://www.loom.com/share/ac2e68a8e2514236b797d05f394a8bf9?sid=3755d918-30a3-4a9e-92b9-e0d5bdc3d46b)
 
 ## 🎯 Why I Built This
 
